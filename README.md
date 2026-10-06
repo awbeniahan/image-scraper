@@ -10,10 +10,7 @@ so you don't have to download them one by one.
 - Choose how many images you want (the count is a target, not a guarantee)
 - Saves the images to a folder named after the keyword, such as `fish_images`
 - Typical run: about 2-3 minutes, compared with an estimated 30-60 minutes by hand
-
-<!-- Keep ONE of these two lines and delete the other -->
 - Collects images from Baidu
-- Supports three scrapers: Google, Bing, and Baidu
 
 ## Example run
 Keyword: `fish`. Result: 48 images collected.
